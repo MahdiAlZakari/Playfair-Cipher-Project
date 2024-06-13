@@ -9,8 +9,8 @@ This GitHub repository features a Playfair cipher implementation using Flutter, 
 - **Robust Text Processing**: Ensures accurate handling of text inputs, including letter substitution and error checking, to accommodate various input scenarios.
 
 #### Developer Contribution:
-- **<a href="https://github.com/MahdiAlZakari" target="_blank" rel="noreferrer">Mahdi**: Responsible for the development of the Flutter frontend, crafting the user interface, and integrating the Playfair cipher logic.
-- **<a href="https://github.com/Abdulrhman-a1" target="_blank" rel="noreferrer">Abdulrhman-a1**: Handled additional aspects of the project beyond the Flutter application.
+- **<a href="https://github.com/MahdiAlZakari" target="_blank" rel="noreferrer">Mahdi**: Responsible for the development of the Playfair cipher logic.
+- **<a href="https://github.com/Abdulrhman-a1" target="_blank" rel="noreferrer">Abdulrhman-a1**: Handled additional aspects of the project, such that the Flutter frontend, crafting the user interface, and integrating .
 
 #### Ideal Usage:
 This application is perfect for educational demonstrations of classical encryption techniques, as well as for cryptography enthusiasts interested in exploring different cipher methods.
